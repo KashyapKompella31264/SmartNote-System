@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SmartNote-System/static/css/main.e8d0eea4.css",
-    "main.js": "/SmartNote-System/static/js/main.3a61dbc3.js",
+    "main.js": "/SmartNote-System/static/js/main.716bff5a.js",
     "static/js/453.b4a5376b.chunk.js": "/SmartNote-System/static/js/453.b4a5376b.chunk.js",
     "index.html": "/SmartNote-System/index.html",
     "main.e8d0eea4.css.map": "/SmartNote-System/static/css/main.e8d0eea4.css.map",
-    "main.3a61dbc3.js.map": "/SmartNote-System/static/js/main.3a61dbc3.js.map",
+    "main.716bff5a.js.map": "/SmartNote-System/static/js/main.716bff5a.js.map",
     "453.b4a5376b.chunk.js.map": "/SmartNote-System/static/js/453.b4a5376b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8d0eea4.css",
-    "static/js/main.3a61dbc3.js"
+    "static/js/main.716bff5a.js"
   ]
 }
