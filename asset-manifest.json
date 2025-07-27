@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8d0eea4.css",
-    "main.js": "/static/js/main.407a4fa4.js",
-    "static/js/453.b4a5376b.chunk.js": "/static/js/453.b4a5376b.chunk.js",
-    "index.html": "/index.html",
-    "main.e8d0eea4.css.map": "/static/css/main.e8d0eea4.css.map",
-    "main.407a4fa4.js.map": "/static/js/main.407a4fa4.js.map",
-    "453.b4a5376b.chunk.js.map": "/static/js/453.b4a5376b.chunk.js.map"
+    "main.css": "/SmartNote-System/static/css/main.e8d0eea4.css",
+    "main.js": "/SmartNote-System/static/js/main.1ddad248.js",
+    "static/js/453.b4a5376b.chunk.js": "/SmartNote-System/static/js/453.b4a5376b.chunk.js",
+    "index.html": "/SmartNote-System/index.html",
+    "main.e8d0eea4.css.map": "/SmartNote-System/static/css/main.e8d0eea4.css.map",
+    "main.1ddad248.js.map": "/SmartNote-System/static/js/main.1ddad248.js.map",
+    "453.b4a5376b.chunk.js.map": "/SmartNote-System/static/js/453.b4a5376b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8d0eea4.css",
-    "static/js/main.407a4fa4.js"
+    "static/js/main.1ddad248.js"
   ]
 }
