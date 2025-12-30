@@ -8,6 +8,9 @@ smart-notes-system/
 │   ├── config/
 │   └── server.js
 │
+
+
+
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
