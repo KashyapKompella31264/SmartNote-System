@@ -12,6 +12,7 @@ smart-notes-system/
 
 
 ├── frontend/
+
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
